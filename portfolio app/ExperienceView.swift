@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ExperienceView: View {
     var body: some View {
-        Text("hello world")
+        Text("hello i do not have much experience but this is the experience that i do have haha")
     }
 }
 
