@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CertificationsView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("here are my certys")
     }
 }
 
